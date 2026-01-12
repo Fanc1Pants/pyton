@@ -1,3 +1,5 @@
+print("Hajrafradi")
+
 import random
 kocka1 = random.randint(1,6)
 lehetőségek = (1,2,3,4,5,6)
